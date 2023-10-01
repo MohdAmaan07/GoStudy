@@ -1,1 +1,1 @@
-# GoStudy
+# GOSTUDY
